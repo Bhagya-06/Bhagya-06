@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHYwNXJhdXozYnAyb3MzcnppOTR5czcyNzg4NnF0ZzdoanEzZHFtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RwODfjVRrYp6XHmFUV/giphy.gif" alt="Gif" >
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWd6bWwwMmkyM2szcmFtb3dmMDUycjQzYWU2emRxYXJ6ZXYyZzliaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Gif" >
 </div>
 
 <h2 style="flex: 1; border:none; text-decoration: none;">💫 About Me:</h2>
