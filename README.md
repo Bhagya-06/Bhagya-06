@@ -1,5 +1,6 @@
 <h1 align="center">
-  Hello world! It's Bhagya B <img src="https://visitcount.itsvg.in/api?id=Bhagya-06&icon=0&color=10" alt="Visit Count" align="right">
+  Hello world! It's Bhagya B 👋🏼 <br>
+  <img src="https://visitcount.itsvg.in/api?id=Bhagya-06&icon=0&color=10" alt="Visit Count" >
 </h1>
 
 <div align="center">
