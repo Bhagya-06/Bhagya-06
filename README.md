@@ -57,11 +57,16 @@
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagya-06&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
       </td>
-      <td>
-<img src="https://github.com/Bhagya-06/Bhagya-06/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
-      </td>
     </tr>
   </table>
+
+<div align="center">
+<picture>
+  <source srcset="github-user-contribution.svg" />
+  <img alt="github-snake" src="github-user-contribution-light.svg" />
+</picture>
+</div>
+  
 </div>
 
 
