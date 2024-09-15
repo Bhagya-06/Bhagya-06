@@ -54,7 +54,7 @@
       </td>
     </tr>
     <tr>
-      <td>
+      <td colspan=2 align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagya-06&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
       </td>
     </tr>
