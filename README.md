@@ -60,12 +60,7 @@
     </tr>
   </table>
 
-<div align="center">
-<picture>
-  <source srcset="github-user-contribution.svg" />
-  <img alt="github-snake" src="github-user-contribution-light.svg" />
-</picture>
-</div>
+
   
 </div>
 
