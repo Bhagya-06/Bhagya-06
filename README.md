@@ -55,7 +55,7 @@
     </tr>
     <tr>
       <td colspan=2 align="center">
-        <img src="https://streak-stats.demolab.com/?user=Bhagya-06&theme=radical&hide_border=false&v=1" alt="GitHub Streak Stats">
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bhagya-06&theme=radical&hide_border=false" alt="GitHub Streak" /></a>
       </td>
     </tr>
   </table>
