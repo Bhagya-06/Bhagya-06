@@ -1,6 +1,6 @@
 <h1 align="center">
   Hello world! It's Bhagya B 👋🏼 <br>
-  <img src="https://visitcount.itsvg.in/api?id=Bhagya-06&icon=0&color=10" alt="Visit Count" >
+  <img src="https://komarev.com/ghpvc/?username=Bhagya-06&label=Profile%20Views&color=0e75b6&style=flat" alt="Visit Count">
 </h1>
 
 <div align="center">
@@ -50,12 +50,12 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Bhagya-06&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhagya-06&theme=radical&hide_border=false" alt="GitHub Streak">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagya-06&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
       </td>
     </tr>
     <tr>
       <td colspan=2 align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagya-06&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+        <img src="https://streak-stats.demolab.com/?user=Bhagya-06&theme=radical&hide_border=false&v=1" alt="GitHub Streak Stats">
       </td>
     </tr>
   </table>
