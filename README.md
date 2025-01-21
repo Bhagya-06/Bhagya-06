@@ -1,6 +1,6 @@
 <h1 align="center">
   Hello world! It's Bhagya B 👋🏼 <br>
-  <img src="https://komarev.com/ghpvc/?username=Bhagya-06&label=Profile%20Views&color=0e75b6&style=flat" alt="Visit Count">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=ff68b4&style=flat-square" alt="Visit Count">
 </h1>
 
 <div align="center">
