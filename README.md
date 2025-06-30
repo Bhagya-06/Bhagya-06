@@ -55,7 +55,7 @@
     </tr>
     <tr>
       <td colspan=2 align="center">
-        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-alpha-tan.vercel.app?user=Bhagya-06&theme=radical" alt="GitHub Streak" /></a>
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bhagya-06&theme=radical" alt="GitHub Streak" /></a>
       </td>
     </tr>
   </table>
